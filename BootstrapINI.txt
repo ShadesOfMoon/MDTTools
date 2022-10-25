@@ -1,0 +1,13 @@
+[Settings]
+Priority=Default
+
+[Default]
+_SMSTSORGNAME=NOMDELA SOCIETE
+_SMSTSPackageName=%TaskSequenceName% sur %Model% pour l'ordinateur : %OSDComputername%
+DeployRoot=\\APP-MDT\DeployMDT
+SkipBDDWelcome=NO
+KeyboardLocalePE=040c:0000040c
+UserLocale=040c:0000040c
+InputLocale=040c:0000040c
+UILanguage=040c:0000040c
+
